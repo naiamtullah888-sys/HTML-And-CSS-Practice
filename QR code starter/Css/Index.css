@@ -1,0 +1,35 @@
+main {
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#QR {
+    background-color: white;
+    height: 450px;
+    width: 320px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+img {
+    height: 260px;
+    width: 300px;
+    border: 2px white solid;
+    border-radius: 25px;
+    padding: 9px;
+}
+#first {
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-weight: 700;
+}
+#second {
+    font-size: 13px;
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+}
